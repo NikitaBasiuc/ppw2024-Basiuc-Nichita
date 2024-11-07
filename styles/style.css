@@ -18,3 +18,10 @@ body {
     text-align: justify;
     text-align-last: center;
 }
+.link {
+    text-decoration: none;
+}
+.link:hover {
+    text-decoration: underline;
+    
+}
